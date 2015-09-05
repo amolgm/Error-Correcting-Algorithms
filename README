@@ -1,0 +1,9 @@
+# Error-Correcting-Algorithms
+It consists of Viterbi, Trellis, and Cyclic codec
+
+Description	
+Run combined_gui 
+Choose the technique and say 'Execute' 
+Follow next steps accordingly
+
+MATLAB release	MATLAB 7.10 (R2010a)
